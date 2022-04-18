@@ -16,7 +16,7 @@
 	overall, as well as the months with the highest number of Failed campaigns were November, December.
 	The number of cancelled campaigns were almost constant trough the year.
 	kickstarter-analysis/Outcomes_vs_Goals.png
-	![Outcomes vs Goals](kickstarter-analysis/Outcomes_vs_Goals.png)
+	![Outcomes vs Goals](/Resources/Outcomes_vs_Goals.png)
 
 ### 2.2.  Analysis of Outcomes Based on Goals
 
